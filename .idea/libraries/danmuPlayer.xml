@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="danmuPlayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/public/danmuPlayer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
